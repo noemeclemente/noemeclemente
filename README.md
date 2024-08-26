@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @noemeclemente
 - 👀 Estudante de Engenharia de Software apoixonada pela possibilidade de criar soluções inovadoras através da tecnologia
-- 🌱 Atualmente estou focando no aprimoramento das minhas habilidades em Python
+- 🌱 Atualmente estou focando no aprimoramento das minhas habilidades em Java e Python
 - 📫 clemente.noeme@gmail.com
 
 
