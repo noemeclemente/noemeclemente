@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estou atualmente no 7° semestre <br>📚 Meu foco de estudos no momento é a linguagem Java <br>🎯 Pretendo expandir meus conhecimentos na linguagem e no framework Spring<br></p>
+<p align="left">✨ Estou atualmente no 8° semestre <br>📚 Meu foco de estudos no momento é a linguagem Java <br>🎯 Pretendo expandir meus conhecimentos na linguagem e no framework Spring<br></p>
 
 ###
 
